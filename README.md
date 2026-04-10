@@ -93,7 +93,7 @@ git clone https://github.com/your-username/sales-insights-python-project.git
 pip install pandas numpy matplotlib seaborn
 
 ---
-👤 Author
+##👤 Author
 
 Amit Kumar
 Aspiring Data Analyst | Skilled in Excel, SQL, Python, Tableau 
