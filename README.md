@@ -73,4 +73,31 @@ The project uses the following datasets:
 ---
 
 ## 📁 Project Structure
+├── data/
+│ ├── orders.csv
+│ ├── customers.csv
+│ ├── products.csv
+├── notebook/
+│ └── analysis.ipynb
+├── images/
+│ └── charts.png
+├── README.md
 
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/sales-insights-python-project.git
+pip install pandas numpy matplotlib seaborn
+
+## 👤 Author
+
+**Amit Kumar**  
+📊 Aspiring Data Analyst  
+
+### 🔗 Connect with me:
+- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/your-username
+- Email: amit7580sh@gmail.com
